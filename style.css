@@ -1,0 +1,13 @@
+a:link {
+    color: royalblue;
+    text-decoration: none;
+}
+a:visited {
+    color: mediumpurple;
+    text-decoration: none;
+}
+body {
+    background-color: black;
+    color: lightgray;
+    font-family: monospace;
+}
